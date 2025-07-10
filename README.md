@@ -8,6 +8,7 @@
 이 저장소는 **Spring Boot 기반의 키피바라 백엔드 API 서버**입니다.
 
 발표자료 : https://keepbara.my.canva.site/
+![image](https://github.com/user-attachments/assets/7a3ddf22-b6d3-45a4-a165-49860023d0e9)
 
 ---
 
